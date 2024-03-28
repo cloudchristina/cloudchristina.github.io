@@ -5,12 +5,9 @@ paginate = 5
 title = "Christina's Tech Blog"
 
 [params]
-  author = [
-      name = "Christina Chen"
-      description = "DevOps Engineer sharing my journey and projects"
-      email = "connie0972001@gmail.com"
-      LinkedIn = "https://www.linkedin.com/in/christina-cloud/"
-  ]
+  author = "Christina Chen"
+  description = "DevOps Engineer sharing my journey and projects"
+  email = "connie0972001@gmail.com"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
