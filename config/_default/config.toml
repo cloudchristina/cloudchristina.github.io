@@ -2,7 +2,12 @@
 baseurl = "https://cloudchristina.github.io"
 languageCode = "en-us"
 paginate = 5
-title = "Christina Blog"
+title = "Christina's Tech Blog"
+
+[params]
+  author = "Christina Chen"
+  description = "DevOps Engineer sharing my journey and projects"
+  LinkedIn = "https://www.linkedin.com/in/christina-cloud/"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
